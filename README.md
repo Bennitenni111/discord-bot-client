@@ -1,3 +1,6 @@
+# READ ME
+This is currently patched, and no longer working, it'll soon be updated.
+
 # discord-bot-client
 This will allow you to sign in onto discord.anonix.xyz
 
